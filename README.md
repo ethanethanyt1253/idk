@@ -4,10 +4,10 @@
  * @name NOBG
  * @version 1.0.6.3
  * @description A translucent/frosted glass Discord theme
- * @author CapnKitten
+ * @author ethanethanyt1253
  *
- * @website https://www.youtube.com/watch?v=dQw4w9WgXcQ
- * @source https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ * @website https://github.com/ethanethanyt1253
+ * @source https://github.com/ethanethanyt1253
  * @donate https://www.youtube.com/watch?v=dQw4w9WgXcQ
  * @invite CTk6Z86cEU
  */
